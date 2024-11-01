@@ -75,19 +75,19 @@ I love to connect with other data lovers and regularly attend (and occasionally 
 ## Certifications 🏆
 
 <a href="https://www.credly.com/earner/earned/badge/c04b7308-574e-4248-811e-b1d0acc01a03">
-  <img src="https://github.com/spurz8/Introduction-Page/blob/main/AMBASSADOR.png" width="20%">
+  <img src="https://github.com/spurz8/spurz8/blob/main/AMBASSADOR.png" width="20%">
 </a>
 
 <a href="https://www.credly.com/badges/e4f442cb-e285-48cc-8f02-0ab694453f95">
-  <img src="https://github.com/spurz8/Introduction-Page/blob/main/DATA%20ANLAYST%20TAB.png" width="19%">
+  <img src="https://github.com/spurz8/spurz8/blob/main/DATA%20ANLAYST%20TAB.png" width="19%">
 </a>
 
 <a href="https://www.credly.com/badges/639a9bd3-d73d-466f-8170-a4f3ff9b1f56">
-  <img src="https://github.com/spurz8/Introduction-Page/blob/main/Certification_Designer_Advanced.png" width="19%">
+  <img src="https://github.com/spurz8/spurz8/blob/main/Certification_Designer_Advanced.png" width="19%">
 </a>
 
 <a href="https://www.credly.com/badges/b8b29fc5-3e17-48bf-91e2-20c59df308a9">
-  <img src="https://github.com/spurz8/Introduction-Page/blob/main/ML.png" width="19%">
+  <img src="https://github.com/spurz8/spurz8/blob/main/ML.png" width="19%">
 </a>
 <br>
 <br>
